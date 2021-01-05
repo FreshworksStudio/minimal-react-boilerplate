@@ -46,7 +46,7 @@
     "webpack-dev-server": "^3.7.2"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "pm2": "^3.5.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
